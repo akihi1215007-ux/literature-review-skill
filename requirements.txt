@@ -1,0 +1,2 @@
+# Optional citation clients; core search/library use the Python standard library.
+requests>=2.32,<3
